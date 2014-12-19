@@ -5,6 +5,8 @@ This Extension uses jQuery to find the embeds, and Chrome Extension APIs to inte
 
 Created By Pradipta (geekpradd) with assistance of Aritra (thekindlyone)
 
-###To-Do
+###Usage
 
-1. Add support to right click context menu. This will effectively reduce one step in accessing the videos
+If you want to view embedded YouTube videos of your current page, then just click on the icon in the extension bar and the videos should pop open.
+
+Or if you want to view the YouTube videos embedded in a link, hover to that link, right click and choose "Find YouTube Videos and play". This should open up the extension page where the link source will be downloaded and the YouTube videos (if they exist in that link) will pop open.
